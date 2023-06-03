@@ -61,6 +61,7 @@ plt.legend(['Regression Line','Data points'])
 
 
 # Output : 
+![ot1](https://github.com/Vineesh-AI-DS/Correlation_Regression/assets/93427254/5929f329-12c8-4c22-8f93-d4d6abdddd17)
 
 
 # Result :
